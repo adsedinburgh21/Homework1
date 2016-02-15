@@ -1,2 +1,4 @@
 Here is a change to my file that has a stupid name.
 Now I can see the changes I have commited.
+
+I wasn't happy with the changes so wanted to try again!

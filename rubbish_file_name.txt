@@ -1,3 +1,4 @@
 I am changing this file (using nano in the terminal)
 This is so that I can commit changes to my file.
 
+I wanted to see further changes on GitHub.
